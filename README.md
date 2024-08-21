@@ -19,4 +19,20 @@ A list in python is an ordered collection of items that can hold a variety of da
 - count
 - reverse
 - sort
+- 
+
+Day 2 - Dictionaries
+
+A dictionary in python is an unordered collection of items, in key-value pair format
+
+1. Creation of dictionary
+2. Accessing elements
+3. Updating elements
+4. Updating multiple keys
+5. Common dictionary methods:
+- keys
+- values
+- items
+- pop
+- popitem
 - clear
