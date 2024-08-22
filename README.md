@@ -36,3 +36,25 @@ A dictionary in python is an unordered collection of items, in key-value pair fo
 - pop
 - popitem
 - clear
+
+Day 3 - Sets and Tuples
+
+Tuples are immutable sequences in python, meaning once created, cannot be modified. They are often used to store related data that shouldn't change throughout the program
+
+1. Creation (Single and multiple elements)
+2. Operations
+- Accessing elements
+- Concatenation
+- slicing
+3. Immutability errors
+
+Sets are unordered collections of unique elemets in python. They are mutable
+
+1. Creation
+2. Operations
+- Union
+- Intersection
+- Difference
+- Add
+- Remove
+3. Immutability errors
